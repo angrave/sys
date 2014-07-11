@@ -1,2 +1,3 @@
+a263403 Added LICENSE.txt
 2b81594 publish.sh
 1cba642 Initial commit
