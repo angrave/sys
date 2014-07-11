@@ -1,4 +1,5 @@
+22f903f fix bz2 images
+f608d21 track jor1k
+96ca886 disk images
+cfbafdd Added pre-built hdgcc-pthread.bz2
 754551e gh-pages config; .gitignore
-a263403 Added LICENSE.txt
-2b81594 publish.sh
-1cba642 Initial commit
