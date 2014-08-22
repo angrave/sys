@@ -1,0 +1,13 @@
+{
+  "name": "jor1k",
+  "homepage": "https://github.com/angrave/jor1k",
+  "_release": "73e436a3e5",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "73e436a3e543e6e439cdaf23dae809039ff6ac4a"
+  },
+  "_source": "https://github.com/angrave/jor1k.git",
+  "_target": "master",
+  "_originalSource": "https://github.com/angrave/jor1k.git"
+}
