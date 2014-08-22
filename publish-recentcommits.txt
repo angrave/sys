@@ -1,5 +1,5 @@
-bf2779f Added knockout JS to project
-e9598c9 Added ace mode and theme files to index.html, so that they get included during build
-4d719ee Moved init code to main.js, because code in script tags is thrown away during build. Fixed bootstrap icon path
-16dc76f Merge pull request #7 from angrave/new_design_ui
-97f7a89 Compile button and status text now respond properly to compilation status
+90d4e7a removed program
+e24f7d9 prod script
+d235c57 deploy versions
+1f1783c merged
+5b55d70 use strict
