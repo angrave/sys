@@ -1,5 +1,5 @@
-90d4e7a removed program
-e24f7d9 prod script
-d235c57 deploy versions
-1f1783c merged
-5b55d70 use strict
+b20946a Merge pull request #10 from angrave/ui_changes
+e387397 jshint camelcase
+48c3b82 resize support for editor
+af2e99c Added support for downloading files, changing font size
+7f80417 Refactor editor into new module, add keyboard shortcut, other refactorings
