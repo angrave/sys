@@ -1,5 +1,5 @@
-78866e8 temporarily hide man page tab
-d3bf635 Lesson/playground nav is shown only when lessons are available
-5e99ff7 Add navbar links for better navigation between lessons and playground
-c62e949 Fix #27: Dismiss editor settings popover on next click; Minor change: Use nbsp instead of space in name of code tab
-2a6e161 Merge pull request #26 from angrave/integrate_chapters
+d2b991c change favicon
+07de500 Track page views when changing pages in Router, instead of when the shownPage changes. This is because the user might navigate to the same kind of page (video -> video) and so shownPage does not change, but we should still track the pageview because the page has changed to a new video
+59cee36 Pass tracker as 'this' when calling a ga tracker instance function
+2b369df enable analytics on staging too
+6986bd9 add sysassets to project structure in readme
